@@ -203,7 +203,6 @@ input[type="color"]{color: red;background: red}
 				50% {
 					box-shadow: 0 0 10px var(--red-100);
 					background: #ff8b8b;
-					;
 				}
 				100% {
 					box-shadow: 0 0 5px #ff7f89;
